@@ -1,0 +1,1 @@
+Consider a class that represents an account in a bank. Let the minimum balance for the account be Rs. 1000/-. Write a program that throws an exception when a withdrawal results in the balance less than Rs. 1000/-. Generate some accounts with a random balance amount in each account to solve the problem. 
